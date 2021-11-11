@@ -1,0 +1,28 @@
+#form-id {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+h1 {
+  color: darkmagenta;
+  opacity: 0.6;
+  font-weight: bold;
+  font-size: 30px;
+  padding-left: 200px;
+}
+h2 {
+  font-size: 20px;
+}
+
+input[type="submit"] {
+  border: none;
+  border-radius: 10px;
+  color: white;
+  padding: 25px 60px 25px 60px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  background-color: darkmagenta;
+}
+.input-class {
+  color: blue;
+}
